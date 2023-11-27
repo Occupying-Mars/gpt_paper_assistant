@@ -16,7 +16,9 @@
  6. Studies 'scaling laws' in the context of neural networks. Scaling laws refer to the very clear power-law relationship between the size or computational power used to train a model and the performance of that model.
     - Relevant: theoretical or conceptual explanation behind scaling laws for language models.
     - Not relevant: papers that have experiments at different model scales (but do not explicitly fit a scaling law) or papers that mention scaling laws, but the scaling laws are not the central subject of the paper
-
+7. New stuff in the field of Web Automation and web navigation using SOTA AI methods and so on
+   - Relevant: papers that talk about web automation using language models multimodal models and other state of the art ai techniques, 
+   - Not relevant: Papers using old techniques and reinforcement techniques
  In suggesting papers to your friend, remember that he enjoys papers on statistical machine learning, and generative modeling in natural language processing.
  Your friend also likes learning about surprising empirical results in language models, as well as clever statistical tricks.
  He does not want to read papers that are about primarily applications of methods to specific domains.
